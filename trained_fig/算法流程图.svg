@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 绘图3.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.06299}
+		.st2 {fill:#000000;font-family:宋体;font-size:0.708664em}
+		.st3 {fill:none;visibility:hidden}
+		.st4 {marker-end:url(#mrkr4-46);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.708661}
+		.st5 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.21949078138718}
+		.st6 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:#000000;font-family:宋体;font-size:1.00001em}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-46" class="st5" v:arrowType="4" v:arrowSize="2" v:setback="9.112" refX="-9.112" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-4.556,-4.556) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Background" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" v:layerMember="0" transform="translate(259.439,-629.575)">
+			<title>Shape.1</title>
+			<desc>开始</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="824.173" width="56.7" height="35.4331"/>
+			<path d="M11.81 806.46 L59.06 806.46 C74.8 806.46 74.8 841.89 59.06 841.89 L11.81 841.89 C-3.94 841.89 -3.94 806.46 11.81
+						 806.46" class="st1"/>
+			<text x="26.93" y="826.72" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>开始</text>		</g>
+		<g id="shape2-5" v:mID="2" v:groupContext="shape" v:layerMember="0" transform="translate(222.943,-557.291)">
+			<title>Shape.2</title>
+			<desc>环境包装器处理游戏画面</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="71.9291" cy="824.173" width="129.69" height="35.4331"/>
+			<rect x="0" y="806.457" width="143.858" height="35.4331" class="st3"/>
+			<rect x="0" y="806.457" width="143.858" height="35.4331" class="st1"/>
+			<text x="25.16" y="826.72" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>环境包装器处理游戏画面</text>		</g>
+		<g id="shape3-9" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(227.549,-485.008)">
+			<title>Shape.3</title>
+			<desc>卷积神经网络提取特征</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="67.3228" cy="824.173" width="120.48" height="35.4331"/>
+			<rect x="0" y="806.457" width="134.646" height="35.4331" class="st3"/>
+			<rect x="0" y="806.457" width="134.646" height="35.4331" class="st1"/>
+			<text x="24.8" y="826.72" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>卷积神经网络提取特征</text>		</g>
+		<g id="shape4-13" v:mID="4" v:groupContext="shape" v:layerMember="0" transform="translate(232.156,-398.551)">
+			<title>Shape.4</title>
+			<desc>选择强化学习算法</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="62.7165" cy="817.087" width="111.26" height="49.6063"/>
+			<path d="M0 817.09 L62.72 792.28 L125.43 817.09 L62.72 841.89 L0 817.09" class="st1"/>
+			<text x="24.45" y="819.64" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>选择强化学习算法？</text>		</g>
+		<g id="shape5-17" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(41.133,-322.016)">
+			<title>Shape.5</title>
+			<desc>前馈策略/价值网络</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0783" cy="822.047" width="105.99" height="39.685"/>
+			<rect x="0" y="802.205" width="120.157" height="39.685" class="st3"/>
+			<rect x="0" y="802.205" width="120.157" height="39.685" class="st1"/>
+			<text x="23.94" y="824.6" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>前馈策略/价值网络</text>		</g>
+		<g id="shape6-21" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(234.794,-322.016)">
+			<title>Shape.6</title>
+			<desc>前馈策略/价值网络</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0783" cy="822.047" width="105.99" height="39.685"/>
+			<rect x="0" y="802.205" width="120.157" height="39.685" class="st3"/>
+			<rect x="0" y="802.205" width="120.157" height="39.685" class="st1"/>
+			<text x="23.94" y="824.6" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>前馈策略/价值网络</text>		</g>
+		<g id="shape7-25" v:mID="7" v:groupContext="shape" v:layerMember="0" transform="translate(425.817,-322.016)">
+			<title>Shape.7</title>
+			<desc>LSTM策略/价值网络</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.0292" cy="822.047" width="111.89" height="39.685"/>
+			<rect x="0" y="802.205" width="126.058" height="39.685" class="st3"/>
+			<rect x="0" y="802.205" width="126.058" height="39.685" class="st1"/>
+			<text x="26.89" y="824.6" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>LSTM策略/价值网络</text>		</g>
+		<g id="shape8-29" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(43.101,-249.732)">
+			<title>Shape.8</title>
+			<desc>同步更新网络参数</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="58.1102" cy="824.173" width="102.05" height="35.4331"/>
+			<rect x="0" y="806.457" width="116.22" height="35.4331" class="st3"/>
+			<rect x="0" y="806.457" width="116.22" height="35.4331" class="st1"/>
+			<text x="24.09" y="826.72" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>同步更新网络参数</text>		</g>
+		<g id="shape9-33" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(324.536,-249.732)">
+			<title>Shape.9</title>
+			<desc>裁剪目标函数多轮更新</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="67.3228" cy="824.173" width="120.48" height="35.4331"/>
+			<rect x="0" y="806.457" width="134.646" height="35.4331" class="st3"/>
+			<rect x="0" y="806.457" width="134.646" height="35.4331" class="st1"/>
+			<text x="24.8" y="826.72" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>裁剪目标函数多轮更新</text>		</g>
+		<g id="shape10-37" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(258.276,-177.449)">
+			<title>Shape.10</title>
+			<desc>结束</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="824.173" width="56.7" height="35.4331"/>
+			<path d="M11.81 806.46 L59.06 806.46 C74.8 806.46 74.8 841.89 59.06 841.89 L11.81 841.89 C-3.94 841.89 -3.94 806.46 11.81
+						 806.46" class="st1"/>
+			<text x="26.93" y="826.72" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>结束</text>		</g>
+		<g id="shape11-41" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(94.1246,-322.016)">
+			<title>linker</title>
+			<path d="M7.09 841.89 L7.09 872.28" class="st4"/>
+		</g>
+		<g id="shape12-47" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(287.786,-629.575)">
+			<title>Dynamic connector.12</title>
+			<path d="M7.09 841.89 L7.09 872.28" class="st4"/>
+		</g>
+		<g id="shape13-52" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(488.846,-322.016)">
+			<title>Dynamic connector.13</title>
+			<path d="M0 841.89 L0 860.31 L-96.99 860.31 L-96.99 872.28" class="st4"/>
+		</g>
+		<g id="shape14-57" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(287.786,-485.008)">
+			<title>Dynamic connector.14</title>
+			<path d="M7.09 841.89 L7.09 872.28" class="st4"/>
+		</g>
+		<g id="shape15-62" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(357.589,-423.354)">
+			<title>Dynamic connector.15</title>
+			<path d="M0 841.89 L131.26 841.89 L131.26 897.09" class="st4"/>
+		</g>
+		<g id="shape16-67" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(287.786,-398.551)">
+			<title>Dynamic connector.16</title>
+			<path d="M7.09 841.89 L7.09 872.28" class="st4"/>
+		</g>
+		<g id="shape17-72" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(232.156,-423.354)">
+			<title>Dynamic connector.17</title>
+			<path d="M0 841.89 L-130.94 841.89 L-130.94 897.09" class="st4"/>
+		</g>
+		<g id="shape18-77" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(294.872,-322.016)">
+			<title>Dynamic connector.18</title>
+			<path d="M0 841.89 L0 860.31 L96.99 860.31 L96.99 872.28" class="st4"/>
+		</g>
+		<g id="shape19-82" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(287.786,-557.291)">
+			<title>Dynamic connector.19</title>
+			<path d="M7.09 841.89 L7.09 872.28" class="st4"/>
+		</g>
+		<g id="shape20-87" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(391.859,-249.732)">
+			<title>Dynamic connector.20</title>
+			<path d="M0 841.89 L0 860.31 L-98.15 860.31 L-98.15 872.28" class="st4"/>
+		</g>
+		<g id="shape21-92" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(101.211,-249.732)">
+			<title>Dynamic connector.21</title>
+			<path d="M0 841.89 L0 860.31 L192.5 860.31 L192.5 872.28" class="st4"/>
+		</g>
+		<g id="shape22-97" v:mID="22" v:groupContext="shape" transform="translate(140.346,-429.024)">
+			<title>工作表.22</title>
+			<desc>A2C</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="831.26" width="56.7" height="21.2598"/>
+			<rect x="0" y="820.63" width="56.6929" height="21.2598" class="st6"/>
+			<text x="19.35" y="834.86" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>A2C</text>		</g>
+		<g id="shape23-100" v:mID="23" v:groupContext="shape" transform="translate(381.29,-429.024)">
+			<title>工作表.23</title>
+			<desc>RecurrentPPO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="48.189" cy="834.803" width="96.38" height="14.1732"/>
+			<rect x="0" y="827.717" width="96.378" height="14.1732" class="st6"/>
+			<text x="12.19" y="838.4" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>RecurrentPPO</text>		</g>
+		<g id="shape24-103" v:mID="24" v:groupContext="shape" transform="translate(295.423,-375.591)">
+			<title>工作表.24</title>
+			<desc>PPO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="29.7638" cy="834.803" width="59.53" height="14.1732"/>
+			<rect x="0" y="827.717" width="59.5276" height="14.1732" class="st6"/>
+			<text x="20.76" y="838.4" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>PPO</text>		</g>
+	</g>
+</svg>
